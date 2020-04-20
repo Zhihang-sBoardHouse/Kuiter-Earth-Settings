@@ -1,6 +1,13 @@
 # Kuiter-Earth-Settings
 Kuiter 地球的架空设定集
 
+## 追加
+
+在2020年4月20日（现实时间）经过combinators商议后，决定做出以下改动：
+1. 提供叙事层的概念作为叙事工具。**注意：世界观本身依然没有叙事层的概念**
+2. Chuigda量子宇宙，Kuiter-Earth，Anonymous宇宙三个世界观合并。
+3. 基于上一条对Kuiter的本质做出了明确的诠释（设定）
+
 # F.A.Q.
 **Q**: 你们这是个什么 repo 啊
 
