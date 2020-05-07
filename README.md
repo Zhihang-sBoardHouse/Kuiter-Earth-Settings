@@ -1,5 +1,7 @@
-# Kuiter-Earth-Settings
-Kuiter 地球的架空设定集
+# Kuiter-Union-Settings
+Kuiter 多宇宙联合的架空设定集
+
+目前包含Chuigda量子宇宙，Kuiter-Earth和Anonymous宇宙
 
 ## 追加
 
